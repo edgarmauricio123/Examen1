@@ -1,0 +1,19 @@
+.custom-bg {
+    background-color: #56413e !important; /* Código del color rosa */
+}
+.button-bg{
+    background-color: #fff1d7 !important; /* Código del color rosa */
+
+}
+
+.input-bg{
+
+    background-color: #c6a49a !important;
+}
+p{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+
+    
+}
